@@ -1,0 +1,476 @@
+[
+    {
+        "name": "AudioEventHistory.txt",
+        "version": "0",
+        "path": "audio/CONFIG/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/CONFIG/AudioEventHistory.txt"
+    },
+    {
+        "name": "BankLkup.dat",
+        "version": "0",
+        "path": "audio/CONFIG/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/CONFIG/BankLkup.dat"
+    },
+    {
+        "name": "BankSlot.dat",
+        "version": "0",
+        "path": "audio/CONFIG/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/CONFIG/BankSlot.dat"
+    },
+    {
+        "name": "EventVol.dat",
+        "version": "0",
+        "path": "audio/CONFIG/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/CONFIG/EventVol.dat"
+    },
+    {
+        "name": "PakFiles.dat",
+        "version": "0",
+        "path": "audio/CONFIG/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/CONFIG/PakFiles.dat"
+    },
+    {
+        "name": "SOUNDINF.DAT",
+        "version": "0",
+        "path": "audio/CONFIG/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/CONFIG/SOUNDINF.DAT"
+    },
+    {
+        "name": "StrmPaks.dat",
+        "version": "0",
+        "path": "audio/CONFIG/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/CONFIG/StrmPaks.dat"
+    },
+    {
+        "name": "TrakLkup.dat",
+        "version": "0",
+        "path": "audio/CONFIG/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/CONFIG/TrakLkup.dat"
+    },
+    {
+        "name": "TRKHEAD.DAT",
+        "version": "0",
+        "path": "audio/CONFIG/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/CONFIG/TRKHEAD.DAT"
+    },
+    {
+        "name": "FEET.osw",
+        "version": "0",
+        "path": "audio/SFX/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/SFX/FEET.osw"
+    },
+    {
+        "name": "FEET.osw.idx",
+        "version": "0",
+        "path": "audio/SFX/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/SFX/FEET.osw.idx"
+    },
+    {
+        "name": "GENRL.osw",
+        "version": "0",
+        "path": "audio/SFX/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/SFX/GENRL.osw"
+    },
+    {
+        "name": "GENRL.osw.idx",
+        "version": "0",
+        "path": "audio/SFX/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/SFX/GENRL.osw.idx"
+    },
+    {
+        "name": "PAIN_A.osw",
+        "version": "0",
+        "path": "audio/SFX/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/SFX/PAIN_A.osw"
+    },
+    {
+        "name": "PAIN_A.osw.idx",
+        "version": "0",
+        "path": "audio/SFX/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/SFX/PAIN_A.osw.idx"
+    },
+    {
+        "name": "AA.osw",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/AA.osw"
+    },
+    {
+        "name": "AA.osw.idx",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/AA.osw.idx"
+    },
+    {
+        "name": "ADVERTS.osw",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/ADVERTS.osw"
+    },
+    {
+        "name": "ADVERTS.osw.idx",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/ADVERTS.osw.idx"
+    },
+    {
+        "name": "AMBIENCE.osw",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/AMBIENCE.osw"
+    },
+    {
+        "name": "AMBIENCE.osw.idx",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/AMBIENCE.osw.idx"
+    },
+    {
+        "name": "BEATS.osw",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/BEATS.osw"
+    },
+    {
+        "name": "BEATS.osw.idx",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/BEATS.osw.idx"
+    },
+    {
+        "name": "CH.osw",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/CH.osw"
+    },
+    {
+        "name": "CH.osw.idx",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/CH.osw.idx"
+    },
+    {
+        "name": "CO.osw",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/CO.osw"
+    },
+    {
+        "name": "CO.osw.idx",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/CO.osw.idx"
+    },
+    {
+        "name": "CR.osw",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/CR.osw"
+    },
+    {
+        "name": "CR.osw.idx",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/CR.osw.idx"
+    },
+    {
+        "name": "CUTSCENE.osw",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/CUTSCENE.osw"
+    },
+    {
+        "name": "CUTSCENE.osw.idx",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/CUTSCENE.osw.idx"
+    },
+    {
+        "name": "DS.osw",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/DS.osw"
+    },
+    {
+        "name": "DS.osw.idx",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/DS.osw.idx"
+    },
+    {
+        "name": "HC.osw",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/HC.osw"
+    },
+    {
+        "name": "HC.osw.idx",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/HC.osw.idx"
+    },
+    {
+        "name": "MH.osw",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/MH.osw"
+    },
+    {
+        "name": "MH.osw.idx",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/MH.osw.idx"
+    },
+    {
+        "name": "MR.osw",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/MR.osw"
+    },
+    {
+        "name": "MR.osw.idx",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/MR.osw.idx"
+    },
+    {
+        "name": "NJ.osw",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/NJ.osw"
+    },
+    {
+        "name": "NJ.osw.idx",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/NJ.osw.idx"
+    },
+    {
+        "name": "RE.osw",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/RE.osw"
+    },
+    {
+        "name": "RE.osw.idx",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/RE.osw.idx"
+    },
+    {
+        "name": "RG.osw",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/RG.osw"
+    },
+    {
+        "name": "RG.osw.idx",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/RG.osw.idx"
+    },
+    {
+        "name": "TK.osw",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/TK.osw"
+    },
+    {
+        "name": "TK.osw.idx",
+        "version": "0",
+        "path": "audio/STREAMS/",
+        "url": "http://191.96.92.72/SAMPDATA/audio/STREAMS/TK.osw.idx"
+    },
+    {
+        "name": "effects.fxp",
+        "version": "0",
+        "path": "models/",
+        "url": "http://191.96.92.72/SAMPDATA/models/effects.fxp"
+    },
+    {
+        "name": "peds.col",
+        "version": "0",
+        "path": "models/coll/",
+        "url": "http://191.96.92.72/SAMPDATA/models/coll/peds.col"
+    },
+    {
+        "name": "vehicles.col",
+        "version": "0",
+        "path": "models/coll/",
+        "url": "http://191.96.92.72/SAMPDATA/models/coll/vehicles.col"
+    },
+    {
+        "name": "weapons.col",
+        "version": "0",
+        "path": "models/coll/",
+        "url": "http://191.96.92.72/SAMPDATA/models/coll/weapons.col"
+    },
+    {
+        "name": "arial.ttf",
+        "version": "0",
+        "path": "SAMP/fonts/",
+        "url": "http://191.96.92.72/SAMPDATA/SAMP/fonts/arial.ttf"
+    },
+    {
+        "name": "arial_bold.ttf",
+        "version": "0",
+        "path": "SAMP/fonts/",
+        "url": "http://191.96.92.72/SAMPDATA/SAMP/fonts/arial_bold.ttf"
+    },
+    {
+        "name": "georgia.ttf",
+        "version": "0",
+        "path": "SAMP/fonts/",
+        "url": "http://191.96.92.72/SAMPDATA/SAMP/fonts/georgia.ttf"
+    },
+    {
+        "name": "gtaweap3.ttf",
+        "version": "0",
+        "path": "SAMP/fonts/",
+        "url": "http://191.96.92.72/SAMPDATA/SAMP/fonts/gtaweap3.ttf"
+    },
+    {
+        "name": "impact.ttf",
+        "version": "0",
+        "path": "SAMP/fonts/",
+        "url": "http://191.96.92.72/SAMPDATA/SAMP/fonts/impact.ttf"
+    },
+    {
+        "name": "quartz_ms.ttf",
+        "version": "0",
+        "path": "SAMP/fonts/",
+        "url": "http://191.96.92.72/SAMPDATA/SAMP/fonts/quartz_ms.ttf"
+    },
+    {
+        "name": "sampaux3.ttf",
+        "version": "0",
+        "path": "SAMP/fonts/",
+        "url": "http://191.96.92.72/SAMPDATA/SAMP/fonts/sampaux3.ttf"
+    },
+    {
+        "name": "segoe_print.ttf",
+        "version": "0",
+        "path": "SAMP/fonts/",
+        "url": "http://191.96.92.72/SAMPDATA/SAMP/fonts/segoe_print.ttf"
+    },
+    {
+        "name": "segoe_script.ttf",
+        "version": "0",
+        "path": "SAMP/fonts/",
+        "url": "http://191.96.92.72/SAMPDATA/SAMP/fonts/segoe_script.ttf"
+    },
+    {
+        "name": "tahoma.ttf",
+        "version": "0",
+        "path": "SAMP/fonts/",
+        "url": "http://191.96.92.72/SAMPDATA/SAMP/fonts/tahoma.ttf"
+    },
+    {
+        "name": "gta3.img",
+        "version": "0",
+        "path": "texdb/",
+        "url": "http://191.96.92.72/SAMPDATA/texdb/gta3.img"
+    },
+    {
+        "name": "gta3.dxt.dat",
+        "version": "0",
+        "path": "texdb/gta3/",
+        "url": "http://191.96.92.72/SAMPDATA/texdb/gta3/gta3.dxt.dat"
+    },
+    {
+        "name": "gta3.dxt.tmb",
+        "version": "0",
+        "path": "texdb/gta3/",
+        "url": "http://191.96.92.72/SAMPDATA/texdb/gta3/gta3.dxt.tmb"
+    },
+    {
+        "name": "gta3.dxt.toc",
+        "version": "0",
+        "path": "texdb/gta3/",
+        "url": "http://191.96.92.72/SAMPDATA/texdb/gta3/gta3.dxt.toc"
+    },
+    {
+        "name": "gta3.txt",
+        "version": "0",
+        "path": "texdb/gta3/",
+        "url": "http://191.96.92.72/SAMPDATA/texdb/gta3/gta3.txt"
+    },
+    {
+        "name": "gta3.unc.tmb",
+        "version": "0",
+        "path": "texdb/gta3/",
+        "url": "http://191.96.92.72/SAMPDATA/texdb/gta3/gta3.unc.tmb"
+    },
+    {
+        "name": "mobile.dxt.dat",
+        "version": "0",
+        "path": "texdb/mobile/",
+        "url": "http://191.96.92.72/SAMPDATA/texdb/mobile/mobile.dxt.dat"
+    },
+    {
+        "name": "mobile.dxt.tmb",
+        "version": "0",
+        "path": "texdb/mobile/",
+        "url": "http://191.96.92.72/SAMPDATA/texdb/mobile/mobile.dxt.tmb"
+    },
+    {
+        "name": "mobile.dxt.toc",
+        "version": "0",
+        "path": "texdb/mobile/",
+        "url": "http://191.96.92.72/SAMPDATA/texdb/mobile/mobile.dxt.toc"
+    },
+    {
+        "name": "mobile.txt",
+        "version": "0",
+        "path": "texdb/mobile/",
+        "url": "http://191.96.92.72/SAMPDATA/texdb/mobile/mobile.txt"
+    },
+    {
+        "name": "mobile.unc.tmb",
+        "version": "0",
+        "path": "texdb/mobile/",
+        "url": "http://191.96.92.72/SAMPDATA/texdb/mobile/mobile.unc.tmb"
+    },
+    {
+        "name": "colorcycle.dat",
+        "version": "0",
+        "path": "data/",
+        "url": "http://191.96.92.72/SAMPDATA/data/colorcycle.dat"
+    },
+    {
+        "name": "timecyc.dat",
+        "version": "0",
+        "path": "data/",
+        "url": "http://191.96.92.72/SAMPDATA/data/timecyc.dat"
+    },
+    {
+        "name": "txd.dxt.dat",
+        "version": "0",
+        "path": "texdb/txd/",
+        "url": "http://191.96.92.72/SAMPDATA/texdb/txd/txd.dxt.dat"
+    },
+    {
+        "name": "txd.dxt.tmb",
+        "version": "0",
+        "path": "texdb/txd/",
+        "url": "http://191.96.92.72/SAMPDATA/texdb/txd/txd.dxt.tmb"
+    },
+    {
+        "name": "txd.dxt.toc",
+        "version": "0",
+        "path": "texdb/txd/",
+        "url": "http://191.96.92.72/SAMPDATA/texdb/txd/txd.dxt.toc"
+    },
+    {
+        "name": "txd.txt",
+        "version": "0",
+        "path": "texdb/txd/",
+        "url": "http://191.96.92.72/SAMPDATA/texdb/txd/txd.txt"
+    },
+    {
+        "name": "txd.unc.tmb",
+        "version": "0",
+        "path": "texdb/txd/",
+        "url": "http://191.96.92.72/SAMPDATA/texdb/txd/txd.unc.tmb"
+    }
+]
